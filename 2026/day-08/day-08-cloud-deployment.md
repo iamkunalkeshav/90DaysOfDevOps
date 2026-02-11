@@ -310,12 +310,3 @@ A real cloud server with:
 This is foundational DevOps work.
 
 ---
-
-# Hashtags
-
-#90DaysOfDevOps
-#DevOpsKaJosh
-#TrainWithShubham
-#AWS
-#Docker
-#Nginx
